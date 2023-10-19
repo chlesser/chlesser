@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Unity VR development
+- 🔭 I’m currently working on a Unity VR project
 - 🌱 I’m currently also learning Unity VR development
-- 💬 Ask me about Middle Earth or Water Polo
+- 💬 Ask me about Middle Earth, Water Polo, or Batman
 - 📫 How to reach me: clesser@ucsc.edu
 - 😄 Pronouns: He/Him
 <!--
