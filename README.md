@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a Unity VR project
 - 🌱 I’m currently also learning Unity VR development
-- 💬 Ask me about Middle Earth, Water Polo, or Batman
+- 💬 Ask me about Middle Earth, Water Polo, or Scuba Diving
 - 📫 How to reach me: clesser@ucsc.edu
 - 😄 Pronouns: He/Him
 <!--
